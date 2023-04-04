@@ -1,0 +1,8 @@
+jieba
+PyQt5
+PyQt5-tools
+matplotlib
+worldcloud
+zhconv
+re
+collection
